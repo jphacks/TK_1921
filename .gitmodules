@@ -1,3 +1,6 @@
 [submodule "Reboneframework"]
 	path = Reboneframework
 	url = https://github.com/one-color-low/Reboneframework
+[submodule "rebone-VC"]
+	path = rebone-VC
+	url = https://github.com/apiss2/rebone-VC.git
