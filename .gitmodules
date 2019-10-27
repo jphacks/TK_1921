@@ -13,3 +13,6 @@
 [submodule "Reborn"]
 	path = Reborn
 	url = https://github.com/AotoKaburaki/Reborn.git
+[submodule "pose_est_mod"]
+	path = pose_est_mod
+	url = https://github.com/apiss2/pose_est_mod.git
