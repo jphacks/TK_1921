@@ -40,7 +40,6 @@ vtuber体験の敷居を下げる。
 ### 活用した技術
 #### API・データ
 * [VMD-Lifting](https://github.com/errno-mmd/VMD-Lifting)
-* AWS
 * Docker
 
 #### フレームワーク・ライブラリ・モジュール
