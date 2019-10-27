@@ -7,3 +7,6 @@
 [submodule "rebone-vmdl"]
 	path = rebone-vmdl
 	url = https://github.com/apiss2/rebone-vmdl.git
+[submodule "ReBone_v2"]
+	path = ReBone_v2
+	url = https://github.com/one-color-low/ReBone_v2
