@@ -1,6 +1,6 @@
 # ReBone
 
-[![Product Name](image.png)](https://www.youtube.com/watch?v=G5rULR53uMk)
+[![Product Name](image.png)](https://youtu.be/ptRfca1i-Mo)
 
 ## 製品概要
 ### 動画をアップロードするだけ！誰でも簡単バ美肉体験！
