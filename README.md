@@ -40,6 +40,7 @@ vtuber体験の敷居を下げる。
 ### 活用した技術
 #### API・データ
 * [VMD-Lifting](https://github.com/errno-mmd/VMD-Lifting)
+* [smoothvmd](https://github.com/errno-mmd/smoothvmd)
 * Docker
 
 #### フレームワーク・ライブラリ・モジュール
@@ -56,4 +57,5 @@ vtuber体験の敷居を下げる。
 * カメラ、マイクからwebmを出力
 * Webカメラから映像、音声を分離し、サーバに送信
 * モデル表示ページに背景画像を表示できるようにした
+* smoothvmdを自分達用に改造し、システムに追加した（mmdがより滑らかな動きになるようにした）。
 * 機械学習モデルなど、３人のプロダクトを統合
