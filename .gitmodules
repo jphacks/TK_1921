@@ -16,3 +16,6 @@
 [submodule "pose_est_mod"]
 	path = pose_est_mod
 	url = https://github.com/apiss2/pose_est_mod.git
+[submodule "ReBone_compose"]
+	path = ReBone_compose
+	url = https://github.com/one-color-low/ReBone_compose
