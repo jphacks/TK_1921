@@ -1,9 +1,10 @@
-# ReBone
+# ReBone〜美少女のBoneに生まれ変わる〜
 ## デモ動画
 
 [![Product Name](image.png)](https://youtu.be/ptRfca1i-Mo)
 
 ## 製品概要
+### エンターテイメント X Tech
 ### 動画をアップロードするだけ！誰でも簡単バ美肉体験！
 
 ### 背景（製品開発のきっかけ、課題等）
